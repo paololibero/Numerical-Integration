@@ -8,4 +8,4 @@ This Python program give the result of the numerical integration of a mathematic
 
  - Sympy as main library to represent and elaborate a math formula.
  - Pyplot for plotting
- - Numpy for some math fucntions
+ - Numpy for some math functions
